@@ -317,6 +317,8 @@ h1 {
 }
 
 .navbar-brand img[src$=svg] {
+    width: 70%;
+    height: 100%;
     min-width: 100px;
 }
 
